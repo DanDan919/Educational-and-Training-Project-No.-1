@@ -1,0 +1,14 @@
+C:\Users\боров\source\repos\LearnHard\LearnHard\bin\Debug\net8.0\LearnHard.exe
+C:\Users\боров\source\repos\LearnHard\LearnHard\bin\Debug\net8.0\LearnHard.deps.json
+C:\Users\боров\source\repos\LearnHard\LearnHard\bin\Debug\net8.0\LearnHard.runtimeconfig.json
+C:\Users\боров\source\repos\LearnHard\LearnHard\bin\Debug\net8.0\LearnHard.dll
+C:\Users\боров\source\repos\LearnHard\LearnHard\bin\Debug\net8.0\LearnHard.pdb
+C:\Users\боров\source\repos\LearnHard\LearnHard\obj\Debug\net8.0\LearnHard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\боров\source\repos\LearnHard\LearnHard\obj\Debug\net8.0\LearnHard.AssemblyInfoInputs.cache
+C:\Users\боров\source\repos\LearnHard\LearnHard\obj\Debug\net8.0\LearnHard.AssemblyInfo.cs
+C:\Users\боров\source\repos\LearnHard\LearnHard\obj\Debug\net8.0\LearnHard.csproj.CoreCompileInputs.cache
+C:\Users\боров\source\repos\LearnHard\LearnHard\obj\Debug\net8.0\LearnHard.dll
+C:\Users\боров\source\repos\LearnHard\LearnHard\obj\Debug\net8.0\refint\LearnHard.dll
+C:\Users\боров\source\repos\LearnHard\LearnHard\obj\Debug\net8.0\LearnHard.pdb
+C:\Users\боров\source\repos\LearnHard\LearnHard\obj\Debug\net8.0\LearnHard.genruntimeconfig.cache
+C:\Users\боров\source\repos\LearnHard\LearnHard\obj\Debug\net8.0\ref\LearnHard.dll
